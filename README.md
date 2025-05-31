@@ -5,7 +5,7 @@ I'm Kamyar, a digital creator who loves building meaningful things. It all start
 
 ## 🌐 Socials
 
-[![Website](https://img.shields.io/badge/Website-kamycoding.com-4CAF50?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.kamycoding.com)
+[![Website](https://img.shields.io/badge/WEBSITE-kamycoding-green?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.kamycoding.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamycoding)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamyarzamanfar/)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kamycoding)
