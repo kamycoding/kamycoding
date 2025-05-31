@@ -1,9 +1,11 @@
 ## 👋 About Me
 
-I'm a Junior Web Developer passionate about creating dynamic and responsive websites. Eager to learn and grow in the tech industry, I focus on improving my coding skills and exploring new technologies to build impactful web applications.
+I'm Kamyar, a digital creator who loves building meaningful things. It all started with my love for computers, from video games to exploring how software works. I began tweaking and creating small projects just for fun.That curiosity turned into a passion for design and web development, where I build experiences that connect people with ideas. I care deeply about how things look, feel, and function.Creating digital experiences isn’t just work for me, it’s joy. Whether freelancing or building my own projects, I always aim for creativity, simplicity, and purpose.Above all, I believe: God is in the details.
+
 
 ## 🌐 Socials
 
+[![Website](https://img.shields.io/badge/Website-kamycoding.com-4CAF50?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.kamycoding.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamycoding)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamyarzamanfar/)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kamycoding)
