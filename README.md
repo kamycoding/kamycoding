@@ -23,7 +23,7 @@ I'm Kamyar, a digital creator who loves building meaningful things. It all start
 ## ✍️ Random Dev Quote
 ![Quote](https://img.shields.io/badge/Dev_Quote-%F0%9F%93%9D-blue?style=for-the-badge)
 
-> _"The best way to learn to code is by building projects. Consistency beats perfection."_  
-> **– Jonas Schmedtmann**
+> _"It’s not a bug; it’s an undocumented feature."_  
+> **– Anonymous**
 
 
