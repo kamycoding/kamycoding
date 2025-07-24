@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=7AC70C&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kamyar;Digital+Creator+%26+Developer;Building+Meaningful+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=7AC70C&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+KamyCoding;Frontend+%26+Web+Developer;Building+Amazing+Web+Experiences" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,15 +12,15 @@
 ## 🎯 About Me
 
 ```javascript
-const kamyar = {
-    name: "Kamyar Zamanfar",
-    title: "Digital Creator & Web Developer",
+const kamycoding = {
+    name: "KamyCoding",
+    title: "Frontend & Web Developer",
     location: "🌍 Somewhere building cool stuff",
-    passion: ["Design", "Code", "User Experience"],
+    passion: ["Frontend", "Web Development", "User Experience"],
     philosophy: "God is in the details ✨",
     
     getCurrentFocus: () => {
-        return "Creating digital experiences that connect people with ideas";
+        return "Building amazing web experiences with modern technologies";
     },
     
     getMotivation: () => {
@@ -32,7 +32,7 @@ const kamyar = {
 ### 💭 My Story
 > **From Gaming to Creating** 🎮 ➜ 💻  
 > What began as a love for video games evolved into exploring how software works.  
-> That curiosity transformed into a passion for **design** and **web development**.
+> That curiosity transformed into a passion for **frontend development** and **web technologies**.
 
 I'm not just coding – I'm crafting experiences that matter. Every pixel, every interaction, every line of code is intentional. I believe in **creativity**, **simplicity**, and **purpose**.
 
@@ -46,9 +46,11 @@ I'm not just coding – I'm crafting experiences that matter. Every pixel, every
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Design & Tools 🎨
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -96,9 +98,9 @@ I'm not just coding – I'm crafting experiences that matter. Every pixel, every
 ## 🎯 Current Focus
 
 ```yaml
-Status: Building amazing digital experiences
-Focus: Web Development & UI/UX Design
-Goal: Create meaningful connections through code
+Status: Building amazing web experiences
+Focus: Frontend Development & React
+Goal: Create beautiful and functional websites
 Mood: Excited about new projects! 🚀
 ```
 
