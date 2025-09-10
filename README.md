@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kamycoding&color=7AC70C&style=for-the-badge" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=kamycoding&color=9966FF&style=for-the-badge" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/kamycoding?style=for-the-badge&color=7AC70C" alt="Followers">
 </div>
 
