@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kamycoding&color=9966FF&style=for-the-badge" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/kamycoding?style=for-the-badge&color=7AC70C" alt="Followers">
+  <img src="https://img.shields.io/github/followers/kamycoding?style=for-the-badge&color=9966FF" alt="Followers">
 </div>
 
 ---
@@ -62,7 +62,7 @@ I'm not just coding – I'm crafting experiences that matter. Every pixel, every
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌟_KAMYCODING-Visit_My_Portfolio-7AC70C?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.kamycoding.com)
+[![Portfolio](https://img.shields.io/badge/🌟_KAMYCODING-Visit_My_Portfolio-9966FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.kamycoding.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-9966FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamycoding)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9966FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamyarzamanfar/)
