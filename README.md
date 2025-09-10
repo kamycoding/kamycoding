@@ -64,7 +64,7 @@ I'm not just coding – I'm crafting experiences that matter. Every pixel, every
 
 [![Portfolio](https://img.shields.io/badge/🌟_KAMYCODING-Visit_My_Portfolio-7AC70C?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.kamycoding.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamycoding)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-9966FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamycoding)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamyarzamanfar/)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kamycoding)
 
