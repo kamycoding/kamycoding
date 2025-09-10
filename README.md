@@ -107,7 +107,7 @@ Mood: Excited about new projects! 🚀
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7AC70C&height=100&section=footer" alt="Wave Footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9966FF&height=100&section=footer" alt="Wave Footer">
   
   **✨ Thanks for stopping by! Let's build something amazing together ✨**
   
