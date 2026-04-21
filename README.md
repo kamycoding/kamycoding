@@ -80,10 +80,6 @@ I'm not just coding – I'm crafting experiences that matter. Every pixel, every
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9966FF&height=100&section=footer" alt="Wave Footer">
-  
+<div align="center">  
   **✨ Thanks for stopping by! Let's build something amazing together ✨**
-  
-  <sub>💡 *"The best way to predict the future is to create it."*</sub>
-</div>
+  </div>
