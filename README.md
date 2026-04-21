@@ -80,26 +80,6 @@ I'm not just coding – I'm crafting experiences that matter. Every pixel, every
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamycoding&show_icons=true&theme=dark&bg_color=0d1117&title_color=7AC70C&icon_color=7AC70C&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamycoding&layout=compact&theme=dark&bg_color=0d1117&title_color=7AC70C&text_color=c9d1d9" alt="Top Languages" height="180"/>
-</div>
-
----
-
-## 🎯 Current Focus
-
-```yaml
-Status: Building amazing web experiences
-Focus: Frontend Development & React
-Goal: Create beautiful and functional websites
-Mood: Excited about new projects! 🚀
-```
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9966FF&height=100&section=footer" alt="Wave Footer">
   
