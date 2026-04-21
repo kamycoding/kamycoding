@@ -78,12 +78,6 @@ I'm not just coding – I'm crafting experiences that matter. Every pixel, every
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It's%20not%20a%20bug;%20it's%20an%20undocumented%20feature.&author=Anonymous%20Developer" alt="Dev Quote">
 </div>
 
-### 🎯 What Drives Me
-- **🎨 Design First:** Every project starts with user experience in mind
-- **⚡ Performance Matters:** Fast, efficient, and accessible solutions
-- **🔍 Attention to Detail:** Because perfection is in the small things
-- **🚀 Continuous Learning:** Always exploring new technologies and trends
-
 ---
 
 ## 📊 GitHub Stats
