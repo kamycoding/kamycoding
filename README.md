@@ -33,9 +33,6 @@ const kamycoding = {
 > **From Gaming to Creating** 🎮 ➜ 💻  
 > What began as a love for video games evolved into exploring how software works.  
 > That curiosity transformed into a passion for **frontend development** and **web technologies**.
-
-I'm not just coding – I'm crafting experiences that matter. Every pixel, every interaction, every line of code is intentional. I believe in **creativity**, **simplicity**, and **purpose**.
-
 ---
 
 ## 🛠️ Tech Arsenal
