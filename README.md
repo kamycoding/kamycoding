@@ -30,9 +30,9 @@ const kamycoding = {
 ```
 
 ### 💭 My Story
-> **From Gaming to Creating** 🎮 ➜ 💻  
-> What began as a love for video games evolved into exploring how software works.  
-> That curiosity transformed into a passion for **frontend development** and **web technologies**.
+**From Gaming to Creating** 🎮 ➜ 💻  
+What began as a love for video games evolved into exploring how software works.  
+That curiosity transformed into a passion for **frontend development** and **web technologies**.
 ---
 
 ## 🛠️ Tech Arsenal
@@ -47,7 +47,6 @@ const kamycoding = {
 
 ### Design & Tools 🎨
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
