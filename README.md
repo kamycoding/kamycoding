@@ -31,8 +31,9 @@ const kamycoding = {
 
 ### 💭 My Story
 **From Gaming to Creating** 🎮 ➜ 💻  
+
 What began as a love for video games evolved into exploring how software works.  
-That curiosity transformed into a passion for **frontend development** and **web technologies**.
+That curiosity transformed into a passion for frontend development and web technologies.
 ---
 
 ## 🛠️ Tech Arsenal
