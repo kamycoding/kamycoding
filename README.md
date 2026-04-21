@@ -80,6 +80,6 @@ I'm not just coding – I'm crafting experiences that matter. Every pixel, every
 
 ---
 
-<div align="center">  
+
   **✨ Thanks for stopping by! Let's build something amazing together ✨**
-  </div>
+
