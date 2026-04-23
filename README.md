@@ -1,14 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9966FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+KamyCoding;Frontend+%26+Web+Developer;Building+Amazing+Web+Experiences" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kamycoding&color=9966FF&style=for-the-badge" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/kamycoding?style=for-the-badge&color=9966FF" alt="Followers">
-</div>
-
----
-
 ## 🎯 About Me
 
 ```javascript
