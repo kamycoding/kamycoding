@@ -64,67 +64,41 @@ It is about structure, clarity, responsiveness, accessibility, interaction, and 
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 💻 Tech Stack
 
-<div align="center">
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-### Frontend Core
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Modern Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Styling & UI Systems
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-Exploring-000000?style=for-the-badge)
-![Magic UI](https://img.shields.io/badge/Magic_UI-Exploring-9966FF?style=for-the-badge)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-222222?style=for-the-badge)
-
-### Design & Product
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Design Systems](https://img.shields.io/badge/Design_Systems-222222?style=for-the-badge)
-![Product Thinking](https://img.shields.io/badge/Product_Thinking-111111?style=for-the-badge)
-
-### Developer Environment
-
-![Linux](https://img.shields.io/badge/Linux-Working_Environment-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-Daily_Use-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-CLI_Workflow-4D4D4D?style=for-the-badge&logo=gnometerminal&logoColor=white)
-
-### Package Managers & Runtime
-
-![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![npm](https://img.shields.io/badge/npm-Package_Manager-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-Package_Manager-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-111111?style=flat-square)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-222222?style=flat-square)
 
 ### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Team_Workflows-181717?style=for-the-badge&logo=github&logoColor=white)
-![Pull Requests](https://img.shields.io/badge/Pull_Requests-Collaboration-9966FF?style=for-the-badge)
+### Dev Environment
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-121011?style=flat-square)
+![NVM](https://img.shields.io/badge/NVM-339933?style=flat-square&logo=node.js&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
 
-### Backend, APIs & AI Direction
-
-![API Integration](https://img.shields.io/badge/API_Integration-Learning-9966FF?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-Exploring-02569B?style=for-the-badge)
-![AI Integration](https://img.shields.io/badge/AI_Integration-Exploring-9966FF?style=for-the-badge&logo=openai&logoColor=white)
-![AI Workflows](https://img.shields.io/badge/AI_Workflows-Developer_Productivity-222222?style=for-the-badge)
-
-### Deployment
-
-![Vercel](https://img.shields.io/badge/Vercel-Deployment-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Static_Deployment-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
+### Backend / AI Direction
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-6C63FF?style=flat-square)
+![AI Integration](https://img.shields.io/badge/AI_Integration-8A2BE2?style=flat-square)
 ---
 
 ## 🚀 What I'm Building & Learning
