@@ -90,7 +90,6 @@ It is about structure, clarity, responsiveness, accessibility, interaction, and 
 ### Design & Product
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![UX Design](https://img.shields.io/badge/User_Experience-9966FF?style=for-the-badge)
 ![Design Systems](https://img.shields.io/badge/Design_Systems-222222?style=for-the-badge)
 ![Product Thinking](https://img.shields.io/badge/Product_Thinking-111111?style=for-the-badge)
 
@@ -99,8 +98,6 @@ It is about structure, clarity, responsiveness, accessibility, interaction, and 
 ![Linux](https://img.shields.io/badge/Linux-Working_Environment-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-Daily_Use-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-CLI_Workflow-4D4D4D?style=for-the-badge&logo=gnometerminal&logoColor=white)
-![Zsh](https://img.shields.io/badge/Zsh-Shell-89E051?style=for-the-badge)
-![NVM](https://img.shields.io/badge/NVM-Node_Versions-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Package Managers & Runtime
 
@@ -113,8 +110,6 @@ It is about structure, clarity, responsiveness, accessibility, interaction, and 
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Team_Workflows-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Pull Requests](https://img.shields.io/badge/Pull_Requests-Collaboration-9966FF?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-Code_Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_AI-AI_Code_Editor-000000?style=for-the-badge)
 
 ### Backend, APIs & AI Direction
 
