@@ -1,7 +1,7 @@
 # Hey, I'm KamyCoding 👋
 
 Frontend & Web Developer based in Germany 🇩🇪  
-Building clean, responsive, and user-focused web experiences — while growing toward Full-Stack development, AI-integrated products, and modern developer workflows.
+Building clean, responsive, and user-focused web experiences. While growing toward Full-Stack development, AI-integrated products, and modern developer workflows.
 
 I care about structure, visual consistency, performance, accessibility, and the small details that make digital products feel polished.
 
