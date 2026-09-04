@@ -1,6 +1,19 @@
-# Hey, I'm Kamy 👋
+<div align="center">
 
-**Full-Stack Developer based in Germany 🇩🇪**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Kamyar%20Zamanfar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Germany&descAlignY=52&descSize=18" width="100%" />
+
+<a href="https://www.kamycoding.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=9966FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+based+in+Germany;React+%7C+Next.js+%7C+Angular+%7C+Node.js;Building+AI-powered+products;Understand+the+problem+before+the+solution" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kamycoding&label=Profile%20views&color=9966FF&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/kamycoding?label=Followers&style=flat-square&color=9966FF&labelColor=181717" alt="Followers" />
+
+</div>
+
+## Hey, I'm Kamy 👋
 
 I enjoy building products where frontend, backend, design, and product thinking come together.
 
@@ -224,6 +237,21 @@ It's to understand them well enough to know **when they are useful, why they are
 
 ---
 
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kamycoding&show_icons=true&hide_border=true&bg_color=00000000&title_color=9966FF&icon_color=9966FF&text_color=8b949e&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamycoding&layout=compact&hide_border=true&bg_color=00000000&title_color=9966FF&text_color=8b949e&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamycoding&bg_color=00000000&color=9966FF&line=9966FF&point=ffffff&area=true&hide_border=true" width="98%" alt="Contribution graph" />
+
+</div>
+
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -240,6 +268,10 @@ It's to understand them well enough to know **when they are useful, why they are
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/kamycoding/kamycoding/output/snake.svg" alt="Snake animation" width="100%" />
+
 **Build things. Understand how they work. Make the next version better.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=110&section=footer" width="100%" />
 
 </div>
